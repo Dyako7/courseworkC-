@@ -2,3 +2,5 @@
 
 Planets.
 Galaxies. 
+
+Types of stars.
